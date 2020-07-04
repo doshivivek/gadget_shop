@@ -7,8 +7,8 @@ import Detail from './Detail'
 const Router = ()=> (
     <BrowserRouter>
         <Switch>
-            <Route exact path="/" component={Home}></Route>
-            <Route path="/detail/:id" component={Detail}></Route>
+            <Route exact path="/gadget_shop" component={Home}></Route>
+            <Route path="/gadget_shop/detail/:id" component={Detail}></Route>
         </Switch>
     </BrowserRouter>
 )
