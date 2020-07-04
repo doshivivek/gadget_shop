@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/doshivivek/gadget_shop/static/js/main.ed7f9f80.chunk.js",
-    "main.js.map": "/doshivivek/gadget_shop/static/js/main.ed7f9f80.chunk.js.map",
-    "runtime-main.js": "/doshivivek/gadget_shop/static/js/runtime-main.188c58b2.js",
-    "runtime-main.js.map": "/doshivivek/gadget_shop/static/js/runtime-main.188c58b2.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/doshivivek/gadget_shop/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9bff3fed.chunk.js": "/doshivivek/gadget_shop/static/js/2.9bff3fed.chunk.js",
-    "static/js/2.9bff3fed.chunk.js.map": "/doshivivek/gadget_shop/static/js/2.9bff3fed.chunk.js.map",
-    "index.html": "/doshivivek/gadget_shop/index.html",
-    "precache-manifest.b7701d692e79f87db7a6b9b0f2f7318b.js": "/doshivivek/gadget_shop/precache-manifest.b7701d692e79f87db7a6b9b0f2f7318b.js",
-    "service-worker.js": "/doshivivek/gadget_shop/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/doshivivek/gadget_shop/static/css/2.829c9cb5.chunk.css.map",
-    "static/js/2.9bff3fed.chunk.js.LICENSE.txt": "/doshivivek/gadget_shop/static/js/2.9bff3fed.chunk.js.LICENSE.txt",
-    "static/media/gadget.png": "/doshivivek/gadget_shop/static/media/gadget.133130e3.png"
+    "main.js": "/gadget_shop/static/js/main.ed7f9f80.chunk.js",
+    "main.js.map": "/gadget_shop/static/js/main.ed7f9f80.chunk.js.map",
+    "runtime-main.js": "/gadget_shop/static/js/runtime-main.d4043e23.js",
+    "runtime-main.js.map": "/gadget_shop/static/js/runtime-main.d4043e23.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/gadget_shop/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.9bff3fed.chunk.js": "/gadget_shop/static/js/2.9bff3fed.chunk.js",
+    "static/js/2.9bff3fed.chunk.js.map": "/gadget_shop/static/js/2.9bff3fed.chunk.js.map",
+    "index.html": "/gadget_shop/index.html",
+    "precache-manifest.5112c2f618074c354bb24b390173fb83.js": "/gadget_shop/precache-manifest.5112c2f618074c354bb24b390173fb83.js",
+    "service-worker.js": "/gadget_shop/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/gadget_shop/static/css/2.829c9cb5.chunk.css.map",
+    "static/js/2.9bff3fed.chunk.js.LICENSE.txt": "/gadget_shop/static/js/2.9bff3fed.chunk.js.LICENSE.txt",
+    "static/media/gadget.png": "/gadget_shop/static/media/gadget.133130e3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.188c58b2.js",
+    "static/js/runtime-main.d4043e23.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.9bff3fed.chunk.js",
     "static/js/main.ed7f9f80.chunk.js"
