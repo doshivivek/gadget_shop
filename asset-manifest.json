@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/gadget_shop/static/js/main.46570ce6.chunk.js",
-    "main.js.map": "/gadget_shop/static/js/main.46570ce6.chunk.js.map",
+    "main.js": "/gadget_shop/static/js/main.e326a8d7.chunk.js",
+    "main.js.map": "/gadget_shop/static/js/main.e326a8d7.chunk.js.map",
     "runtime-main.js": "/gadget_shop/static/js/runtime-main.d4043e23.js",
     "runtime-main.js.map": "/gadget_shop/static/js/runtime-main.d4043e23.js.map",
     "static/css/2.829c9cb5.chunk.css": "/gadget_shop/static/css/2.829c9cb5.chunk.css",
     "static/js/2.9bff3fed.chunk.js": "/gadget_shop/static/js/2.9bff3fed.chunk.js",
     "static/js/2.9bff3fed.chunk.js.map": "/gadget_shop/static/js/2.9bff3fed.chunk.js.map",
     "index.html": "/gadget_shop/index.html",
-    "precache-manifest.f3088b9b3f114ef04bf98301f62bb678.js": "/gadget_shop/precache-manifest.f3088b9b3f114ef04bf98301f62bb678.js",
+    "precache-manifest.05b7ad174465ac4b2f5f44771678ee8a.js": "/gadget_shop/precache-manifest.05b7ad174465ac4b2f5f44771678ee8a.js",
     "service-worker.js": "/gadget_shop/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/gadget_shop/static/css/2.829c9cb5.chunk.css.map",
     "static/js/2.9bff3fed.chunk.js.LICENSE.txt": "/gadget_shop/static/js/2.9bff3fed.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d4043e23.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.9bff3fed.chunk.js",
-    "static/js/main.46570ce6.chunk.js"
+    "static/js/main.e326a8d7.chunk.js"
   ]
 }
