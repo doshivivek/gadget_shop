@@ -16,7 +16,7 @@ class ProductList extends React.Component{
                     </div>
                     <div className="text-center">
                         <Link to={{ 
-                            pathname: `/gadget_shop/detail/${item.id}` }}>
+                            pathname: `gadget_shop/detail/${item.id}` }}>
                             {item.name}
                         </Link>
                     </div>
