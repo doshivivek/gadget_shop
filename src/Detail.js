@@ -26,7 +26,7 @@ class Detail extends React.Component{
                     <div className="m-3"><strong>Name:</strong> {this.state.activeItem.name}</div>
                     <div className="m-3"><strong>Price:</strong> {this.state.activeItem.price}</div>
                     <div className="m-3"><strong>Description:</strong> {this.state.activeItem.description}</div>
-                    <Link to="/">
+                    <Link to="/gadget_shop">
                     <button className="m-3"> ←Back </button>
                     </Link>
                 </div>
